@@ -1,7 +1,7 @@
 type: Asset
 api_version: core/v2
 metadata:
-  name: sensu-http-ping-handler
+  name: sensu-http-ping
 spec:
   sha512: 38a7bc7d9124105b18ed4f7c5f599f24d6d8f0d4888dff10796c64baa0a3bc25bd3e010a4ac42271e990986276db54ec5b8abb43cc72fc1c6fe635f341ab2519
-  url: https://github.com/DENICeG/sensu-http-ping-handler/releases/download/v0.0.1/sensu-http-ping-handler_v0.0.1_linux_amd64.tar.gz
+  url: https://github.com/DENICeG/sensu-http-ping/releases/download/v0.0.1/sensu-http-ping_v0.0.1_linux_amd64.tar.gz

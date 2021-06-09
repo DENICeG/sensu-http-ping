@@ -1,4 +1,4 @@
-module gitlab.com/rzneo/sensu-http-ping-handler
+module gitlab.com/rzneo/sensu-http-ping
 
 go 1.16
 

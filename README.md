@@ -1,1 +1,1 @@
-# sensu-http-ping-handler Asset
+# sensu-http-ping Asset
