@@ -3,5 +3,5 @@ api_version: core/v2
 metadata:
   name: sensu-http-ping
 spec:
-  sha512: 38a7bc7d9124105b18ed4f7c5f599f24d6d8f0d4888dff10796c64baa0a3bc25bd3e010a4ac42271e990986276db54ec5b8abb43cc72fc1c6fe635f341ab2519
-  url: https://github.com/DENICeG/sensu-http-ping/releases/download/v0.0.1/sensu-http-ping_v0.0.1_linux_amd64.tar.gz
+  sha512: 20ce74a78e9b929aae67c819795e02d882e3c7d1680917c82a9628ea9383c88ce943f42e806fb8baf467c80815f7d72c540387c7dd07931179b56a8c8ef54d33
+  url: https://github.com/DENICeG/sensu-http-ping/releases/download/v0.0.2/sensu-http-ping_v0.0.2_linux_amd64.tar.gz
