@@ -10,7 +10,7 @@ Sensu Asset for HTTP Checks.
 | `method` | `m` | `HTTP_PING_METHOD` | `POST` | HTTP Method to use. |
 | `payload` | `p` | - | | HTTP Request Body to submit. |
 | `insecure` | `i` | - | `false` | Skip TLS Certificate validation. |
-| `fail` | - | - | `false` | Exit with code 1 if a non-2xx HTTP Response Code has been received. Otherwise it will only exit with code 1 on malformed requests and network errors. |
+| `fail` | - | - | `false` | Exit with code 2 if a non-2xx HTTP Response Code has been received. Otherwise it will only exit with code 2 on malformed requests and network errors. |
 | `timeout` | - | - | `30` | Timeout Seconds. |
 
 ### Examples
